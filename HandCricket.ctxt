@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=HandCricket
+comment1.params=
+comment1.target=void\ toss()
+comment2.params=
+comment2.target=void\ logic()
+comment3.params=
+comment3.target=void\ bat()
+comment4.params=
+comment4.target=void\ bowl()
+comment5.params=
+comment5.target=void\ bat_2()
+comment6.params=
+comment6.target=void\ bowl_2()
+comment7.params=
+comment7.target=void\ main()
+numComments=8
